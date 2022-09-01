@@ -1,6 +1,12 @@
 # NYC Coronavirus Disease 2019 (COVID-19) Data   
+# COVID-19 Dataset by _Our World in Data_ 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ourworldindata.org/coronavirus)
+[![Data](https://img.shields.io/badge/go_to-data-purple)](public/data/)
+[![documentation](https://img.shields.io/badge/go_to-dev_docs-0055ff)](https://docs.owid.io/projects/covid)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC). The Health Department classifies the start of the COVID-19 outbreak in NYC as the date of the first laboratory-confirmed case, February 29, 2020.  
+**📢 This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC). The Health Department classifies the start of the COVID-19 outbreak in NYC as the date of the first laboratory-confirmed case, February 29, 2020.**
+  
 
 You can view visualizations of these data on the [Health Department’s COVID-19 Data webpage](https://www1.nyc.gov/site/doh/covid/covid-19-data.page). Additional data related to COVID-19 are available via [NYC Open Data](https://data.cityofnewyork.us/browse?category=Health&q=covid). 
 
