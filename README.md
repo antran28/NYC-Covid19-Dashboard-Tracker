@@ -6,10 +6,10 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Introduction
+
 **📢 This repository contains data on Coronavirus Disease 2019 (COVID-19) in New York City (NYC). The Health Department classifies the start of the COVID-19 outbreak in NYC as the date of the first laboratory-confirmed case, February 29, 2020.**
   
 The purpose of this project is to introduce a useful online interactive dashboard that visualize and follow confirmed cases of COVID-19 in New York City. The dashboard illustrates the counts of confirmed cases, deaths, and recoveries of COVID-19. This dashboard is user-friendly and is built in open-source R software (Shiny in particular); ensuring a high sense of transparency and reproducibility.
-***
 
 ## How to use this repository
 This repository contains CSV (comma separated values) files of data, and Readme files with important documentation of the data. If you are unfamiliar with Github, you may find these instructions helpful:
