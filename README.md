@@ -11,6 +11,9 @@
   
 The purpose of this project is to introduce a useful online interactive dashboard that visualize and follow confirmed cases of COVID-19 in New York City. The dashboard illustrates the counts of confirmed cases, deaths, and recoveries of COVID-19. This dashboard is user-friendly and is built in open-source R software (Shiny in particular); ensuring a high sense of transparency and reproducibility.
 
+<img width="1440" alt="Screen Shot 2022-09-11 at 9 36 35 pm" src="https://user-images.githubusercontent.com/102011433/189525527-4c1b332a-77a0-4d75-9172-45f4570d3e04.png">
+
+
 ## How to use this repository
 This repository contains CSV (comma separated values) files of data, and Readme files with important documentation of the data. If you are unfamiliar with Github, you may find these instructions helpful:
 
